@@ -1,0 +1,4 @@
+[submodule "receps_blog/public"]
+	path = receps_blog/public
+	url = https://github.com/erolrecep/erolrecep.github.io.git
+	branch = main

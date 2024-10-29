@@ -1,0 +1,99 @@
+## Basic Configuration
+
+baseurl = "https://erolrecep.github.io/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Recep Erol"
+title = "Recep's Technical Blog"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "discusShortname" # Enable if you want to use Disqus
+# googleAnalytics = "UA-XXXXXXXX-X" # Enable if you want to use Google Analytics
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Recep Erol"
+intro = "HPC Admin & AI Facilitator"
+description = "HPC | AI | Optimization | C | Python | Experiments"
+authorimage = "Recep.jpeg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "HPC Admin Technical Blog"
+keywords = "minimalist,blog,mlenngineer,hpc,ai,python,c,optimization,computervision,experiments,computation"
+
+## Social Accounts
+[params.social]
+github = "erolrecep"
+instagram = "theerolrecep"
+linkedin = "erolrecep"
+twitter = "erolrecep"
+# facebook = "erolrecep"
+# google = "<username>"
+googlescholar = "RWzLVZ4AAAAJ"
+orcid = "0000-0002-3131-4999"
+# stackoverflow = "<username>"
+# lastfm = "<username>"
+# goodreads = "<username>"
+# gitlab = "<username>"
+# bitbucket = "<username>"
+# fivehundredpx = "<username>"
+# flickr = "<username>"
+# foursquare = "<username>"
+# hackernews = "<username>"
+# kickstarter = "<username>"
+# patreon = "<username>"
+# pintrest = "<username>"
+# steam = "<username>"
+# reddit = "<username>"
+# snapchat = "<username>"
+youtube = "<channelid>"
+# keybase = "<username>"
+# twitch = "<username>"
+# soundcloud = "<username>"
+# tumblr = "<username>"
+# strava = "<username>"
+# skype = "<username>"
+# telegram = "<username>"
+# whatsapp = "<username>"
+buymeacoffee = "erolrecep"
+# kaggle = "<username>"
+# holopin = "<username>"
+email = "recep.90@gmail.com"
+# pgp = "<key_fingerprint>"
+
+## Extras
+[params.extra]
+copyright = "© 2024. Recep Erol. Made with ❤️ in Fayetteville, AR"
+# poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[[menu.main]]
+name = "posts"
+weight = 100
+identifier = "posts"
+url = "posts/index.html"
+[[menu.main]]
+name = "about"
+identifier = "about"
+weight = 200
+url = "about/index.html"
+[[menu.main]]
+name = "projects"
+identifier = "projects"
+weight = 300
+url = "projects/index.html"
