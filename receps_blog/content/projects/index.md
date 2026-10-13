@@ -8,7 +8,7 @@ A curated collection of open-source projects, technical workshops, and high-perf
 
 ---
 
-### **Chronological Project Portfolio**
+### **Project Portfolio**
 
 - **[image_processing_workshop](https://github.com/erolrecep/image_processing_workshop)** *(August 2023)*  
   A hands-on mini-workshop designed to introduce audiences to the fundamentals, mathematics, and practical implementations of 2D image processing and computer vision algorithms.
