@@ -3,7 +3,7 @@
 baseurl = "https://erolrecep.github.io/"
 builddrafts = false
 canonifyurls = false
-languageCode = "en-US"
+locale = "en-US"
 
 contentdir = "content"
 layoutdir = "layouts"
@@ -14,6 +14,12 @@ title = "Recep's Technical Blog"
 
 theme = "hugo-goa"
 
+## Markup Configuration (Enable raw HTML in posts)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 ## Hugo Built-in Features
 # disqusShortname = "discusShortname" # Enable if you want to use Disqus
 # googleAnalytics = "UA-XXXXXXXX-X" # Enable if you want to use Google Analytics
@@ -22,14 +28,14 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Recep Erol"
-intro = "HPC Admin & AI Facilitator"
+intro = "HPC Admin & AI/ML Specialist"
 description = "HPC | AI | Optimization | C | Python | Experiments"
 authorimage = "Recep.jpeg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "HPC Admin Technical Blog"
+description = "HPC Admin - AI/ML Specialist Technical Blog"
 keywords = "minimalist,blog,mlenngineer,hpc,ai,python,c,optimization,computervision,experiments,computation"
 
 ## Social Accounts
@@ -74,7 +80,7 @@ email = "recep.90@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2024. Recep Erol. Made with ❤️ in Fayetteville, AR"
+copyright = "© 2025. Recep Erol. Made with ❤️ in Fayetteville, AR"
 # poweredby = true
 highlightjs = true
 socialmarkup = true

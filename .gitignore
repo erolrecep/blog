@@ -1,0 +1,12 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Hugo locks and generated resources
+.hugo_build.lock
+resources/_gen/
+
+# Editor / temporary files
+*.swp
+*.bak
+*~
