@@ -7,13 +7,13 @@ date = 2026-10-15T11:37:00-05:00
 
 ---
 
-### Abstract
+## Abstract
 
 In the contemporary computational landscape, the primary bottleneck of software creation is migrating from mechanical syntax to conceptual clarity. Coined by Andrej Karpathy, the term "vibe coding" captures a paradigm shift in which natural language serves as a declarative programming interface, with large language models (LLMs) managing implementation, scaffolding, and error triage. For academic researchers, doctoral candidates, and interdisciplinary scholars, this transformation represents both an unprecedented accelerator for scientific tooling and a pedagogical challenge to traditional notions of algorithmic literacy. This article outlines the theoretical foundations, operational mechanics, epistemic trade-offs, and verification disciplines required to wield vibe coding with scientific rigor.
 
 ---
 
-### 1. Introduction: The Genesis of "Vibe Coding"
+## 1. Introduction: The Genesis of "Vibe Coding"
 
 In early February 2025, artificial intelligence researcher Andrej Karpathy articulated a trend quietly reshaping software engineering:
 
@@ -38,7 +38,7 @@ We describe this phenomenon as **building at the speed of thought**. The traditi
 
 ---
 
-### 2. Theoretical Framing: Natural Language as the Ultimate Abstraction
+## 2. Theoretical Framing: Natural Language as the Ultimate Abstraction
 
 The history of computer science is an unbroken continuum of abstraction:
 
@@ -52,7 +52,7 @@ Each epoch encountered initial skepticism from purists who argued that higher-le
 
 ---
 
-### 3. The Operational Loop: Iterative Dialogic Synthesis
+## 3. The Operational Loop: Iterative Dialogic Synthesis
 
 Far from being a passive incantation, vibe coding operates as an **iterative dialectic** between human intent and machine synthesis:
 
@@ -67,7 +67,7 @@ The execution lifecycle comprises four recurring steps:
 
 ---
 
-### 4. Pedagogical Case Study: Scaffolding from Scratch
+## 4. Pedagogical Case Study: Scaffolding from Scratch
 
 To ground this paradigm, consider an interdisciplinary researcher with zero prior programming experience working on macOS (Apple Silicon M-Series). The objective is to progress from basic environment setup to a deployed interactive tool.
 
@@ -82,7 +82,7 @@ Throughout this trajectory, the user does not need to master DOM manipulation, b
 * **Stage 3 Prompt Example:**
   > *"Adapt this interface into a standalone browser application (e.g., an interactive 2048 game for our club members). Package all assets for zero-cost, zero-configuration deployment via GitHub Pages so non-technical users can access it immediately via a public URL."*
 
-#### In-Screen Interactive Execution: The Gemini Web Application Runtime
+### In-Screen Interactive Execution: The Gemini Web Application Runtime
 
 A decisive paradigm shift in modern conversational AI—most notably demonstrated by **Google Gemini** (and generative UI agent canvases)—is the ability to **directly launch and run interactive web applications live within the Gemini screen itself**.
 
@@ -97,7 +97,7 @@ In traditional workflows, testing a generated web tool required switching window
   <p><em>Figure: A complete, fully playable 2048 web application synthesized from natural language intent and launched live for interactive play within the browser.</em></p>
 </div>
 
-##### The Vibe Coding Prompt Behind the 2048 Game
+#### The Vibe Coding Prompt Behind the 2048 Game
 The 2048 web application above was constructed using a single structured intent prompt:
 > *"Assume you're a veteran Python programmer and a client asked you to develop a project for a high school chess club: an interactive 2048 web app in Python (Flask/Jinja) and vanilla JavaScript. Keep track of user scores across sessions. Make the project run with a single `make run` command, providing automated dependency setup and clean teardown."*
 
@@ -105,7 +105,7 @@ Within moments, the entire architecture—application routes, database persisten
 
 ---
 
-### 5. Critical Epistemic Analysis: The Promises and Perils
+## 5. Critical Epistemic Analysis: The Promises and Perils
 
 In an academic or institutional setting, intellectual honesty mandates a clear-eyed accounting of the vulnerabilities inherent in this approach:
 
@@ -121,7 +121,7 @@ In an academic or institutional setting, intellectual honesty mandates a clear-e
 
 ---
 
-### 6. The Scientific Horizon: Metacognitive Prompting and Beyond
+## 6. The Scientific Horizon: Metacognitive Prompting and Beyond
 
 Vibe coding is not the abdication of engineering discipline; it is the elevation of computational literacy. As modern development environments and autonomous agent frameworks integrate runtime sandboxes, static linters, and formal theorem provers, the dialogue between human intuition and machine execution will become the standard medium of creation.
 
