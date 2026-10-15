@@ -15,20 +15,13 @@ In the contemporary computational landscape, the primary bottleneck of software 
 
 ## 1. Introduction: The Genesis of "Vibe Coding"
 
-In early February 2025, artificial intelligence researcher Andrej Karpathy articulated a trend quietly reshaping software engineering:
+On February 2, 2025, artificial intelligence researcher Andrej Karpathy articulated a trend quietly reshaping software engineering:
 
 <blockquote class="twitter-tweet" data-dnt="true" align="center">
-  <p lang="en" dir="ltr">There&#39;s a new kind of coding I call &quot;vibe coding&quot;, where you entirely give up the wheel to the AI and just speak your intent, copy-paste error messages, and guide the model...</p>
-  &mdash; Andrej Karpathy (@karpathy) <a href="https://twitter.com/karpathy/status/1886192184808149383?ref_src=twsrc%5Etfw">February 3, 2025</a>
+  <p lang="en" dir="ltr">There&#39;s a new kind of coding I call &quot;vibe coding&quot;, where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It&#39;s possible because the LLMs (e.g. Cursor Composer w Sonnet) are getting too good. Also I just talk to Composer with SuperWhisper so I barely even touch the keyboard...</p>
+  &mdash; Andrej Karpathy (@karpathy) <a href="https://twitter.com/karpathy/status/1886192184808149383?ref_src=twsrc%5Etfw">February 2, 2025</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div align="center">
-  <a href="https://x.com/karpathy/status/1886192184808149383" target="_blank" rel="noopener noreferrer">
-    <img src="karpathy_tweet.png" alt="Andrej Karpathy on Vibe Coding" style="max-width: 620px; width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.12); margin: 16px 0;" />
-  </a>
-  <p><em><a href="https://x.com/karpathy/status/1886192184808149383" target="_blank">Andrej Karpathy's original post on X (February 3, 2025)</a> introducing the concept of vibe coding.</em></p>
-</div>
 
 For more than half a century, programming demanded total fidelity to formal grammars. A computational thinker had to translate high-level conceptual invariants into deterministic, syntax-bound tokens where an errant comma, unhandled pointer, or misplaced indentation could compromise execution. 
 
