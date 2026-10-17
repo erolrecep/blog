@@ -1,6 +1,7 @@
 +++
 title = "Vibe Coding: Building at the Speed of Thought"
 date = 2026-10-15T11:37:00-05:00
+aliases = ["/posts/vibecoding-for-scientists/"]
 +++
 
 *From Imperative Syntax to Declarative Intent in Computational Scholarship*
@@ -68,12 +69,20 @@ To ground this paradigm, consider an interdisciplinary researcher with zero prio
 
 Throughout this trajectory, the user does not need to master DOM manipulation, build tools like Vite, or Docker containerization. The model abstracts away the deployment pipeline while educating the user at each juncture:
 
-* **Stage 1 Prompt Example:**
-  > *"I am using an M3 MacBook Pro. Guide me through configuring a clean Python 3.12 virtual environment. Write a standalone script that loads a CSV file, computes summary statistics, and handles missing data."*
-* **Stage 2 Prompt Example:**
-  > *"Transform this script into a clean local browser dashboard using Streamlit. Include an interactive stopwatch timer to track data-analysis intervals. Provide terminal commands to launch the local server."*
-* **Stage 3 Prompt Example:**
-  > *"Adapt this interface into a standalone browser application (e.g., an interactive 2048 game for our club members). Package all assets for zero-cost, zero-configuration deployment via GitHub Pages so non-technical users can access it immediately via a public URL."*
+<blockquote>
+  <strong>Stage 1 Prompt Example:</strong>
+  <p><em>&ldquo;I am using an M3 MacBook Pro. Guide me through configuring a clean Python 3.12 virtual environment. Write a standalone script that loads a CSV file, computes summary statistics, and handles missing data.&rdquo;</em></p>
+</blockquote>
+
+<blockquote>
+  <strong>Stage 2 Prompt Example:</strong>
+  <p><em>&ldquo;Transform this script into a clean local browser dashboard using Streamlit. Include an interactive stopwatch timer to track data-analysis intervals. Provide terminal commands to launch the local server.&rdquo;</em></p>
+</blockquote>
+
+<blockquote>
+  <strong>Stage 3 Prompt Example:</strong>
+  <p><em>&ldquo;Adapt this interface into a standalone browser application (e.g., an interactive 2048 game for our club members). Package all assets for zero-cost, zero-configuration deployment via GitHub Pages so non-technical users can access it immediately via a public URL.&rdquo;</em></p>
+</blockquote>
 
 ### In-Screen Interactive Execution: The Gemini Web Application Runtime
 
