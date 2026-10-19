@@ -10,11 +10,21 @@ A curated collection of open-source projects, technical workshops, and high-perf
 
 ### **Project Portfolio**
 
-- **[image_processing_workshop](https://github.com/erolrecep/image_processing_workshop)** *(August 2023)*  
-  A hands-on mini-workshop designed to introduce audiences to the fundamentals, mathematics, and practical implementations of 2D image processing and computer vision algorithms.
+- **[RCRE — Recep's Code Run Everywhere](/rcre-docs/)** *(in-development)*  
+  A single-header, zero-dependency C23 engine unifying modern Computer Vision and Classical Machine Learning across Edge, HPC, and WebAssembly with **zero heap allocations in inner inference loops**. Features 15-bit fixed-point color kernels with 0 LSB discrepancy vs. OpenCV, SIMD hardware acceleration (ARM NEON & x86 AVX2), tabular GBDT inference (7.86M preds/sec), and embedded HNSW vector search (44k QPS).
+  - 🌐 **[Project Home & Showcase Portal](/rcre-docs/)**
+  - 📖 **[Interactive Documentation & C23 API Reference](/rcre-docs/docs/)**
+  - 📚 **[Academic Textbook Monograph (PDF)](/rcre-docs/rcre-book.pdf)**
+  - 🚀 **[In-Browser Live Webcam Playground](/rcre-docs/playground.html)**
+  - 🧊 **[3D Tensor Strides & Memory Layout Visualizer](/rcre-docs/learn/strides.html)**
+  - ⚡ **[Cache-Tiled GEMM Hierarchy Simulator](/rcre-docs/learn/gemm_cache.html)**
+  - 🎯 **[Sliding Convolution SIMD Stencil Visualizer](/rcre-docs/learn/stencils.html)**
 
-- **[GettingStartedwithAHPCC](https://github.com/erolrecep/GettingStartedwithAHPCC)** *(September 2024)*  
-  Comprehensive training materials, SLURM batch scripts, and step-by-step guides for users learning cluster computing at the Arkansas High Performance Computing Center (AHPCC).
+- **[VibeCoding-Workshop](https://github.com/erolrecep/VibeCoding-Workshop)** *(October 2026)*  
+  Full workshop curriculum on AI-assisted software development: prompt engineering anatomy, iterative model guidance, and full-stack interactive web application development.
+
+- **[Python_dev_w_uv](https://github.com/erolrecep/Python_dev_w_uv)** *(September 2026)*  
+  A modern Python development workflow blueprint demonstrating zero-overhead virtual environment management and package resolution using Astral's ultra-fast `uv` tool.
 
 - **[dev_env_automation](https://github.com/erolrecep/dev_env_automation)** *(August 2026)*  
   Automated shell scripts and setup tooling for configuring reproducible, streamlined development environments on modern macOS and Linux systems.
@@ -22,11 +32,11 @@ A curated collection of open-source projects, technical workshops, and high-perf
 - **[convolution_ops_hpc](https://github.com/erolrecep/convolution_ops_hpc)** *(August 2026)*  
   A benchmarking study exploring different programming languages (C, Python), optimization techniques, and libraries for accelerating 2D image convolution algorithms on HPC hardware.
 
-- **[Python_dev_w_uv](https://github.com/erolrecep/Python_dev_w_uv)** *(September 2026)*  
-  A modern Python development workflow blueprint demonstrating zero-overhead virtual environment management and package resolution using Astral's ultra-fast `uv` tool.
+- **[GettingStartedwithAHPCC](https://github.com/erolrecep/GettingStartedwithAHPCC)** *(September 2024)*  
+  Comprehensive training materials, SLURM batch scripts, and step-by-step guides for users learning cluster computing at the Arkansas High Performance Computing Center (AHPCC).
 
-- **[VibeCoding-Workshop](https://github.com/erolrecep/VibeCoding-Workshop)** *(October 2026)*  
-  Full workshop curriculum on AI-assisted software development: prompt engineering anatomy, iterative model guidance, and full-stack interactive web application development.
+- **[image_processing_workshop](https://github.com/erolrecep/image_processing_workshop)** *(August 2023)*  
+  A hands-on mini-workshop designed to introduce audiences to the fundamentals, mathematics, and practical implementations of 2D image processing and computer vision algorithms.
 
 ---
 
