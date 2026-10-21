@@ -121,14 +121,18 @@ Here are some of the one-liners I use almost every day as part of my tasks. Test
 
 These one-liners save me significant time and effort.
 
-<div align="center" style="margin: 32px 0;">
-  <img src="htop-view-for-parallel-running-320x240.jpg" alt="GNU Parallel utilizing all CPU resources in htop view" style="max-width: 460px; width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); margin-bottom: 8px;" />
-  <p style="color: #64748b; font-size: 0.9em; margin-bottom: 0;"><em>Figure 1: Parallel utilizes all CPU resources (htop view)</em></p>
+<div align="center" style="margin: 36px 0;">
+  <a href="htop-view.png" target="_blank" title="Click to view full resolution">
+    <img src="htop-view.png" alt="GNU Parallel utilizing all CPU resources in htop view" style="max-width: 720px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.2); margin-bottom: 8px; display: block;" />
+  </a>
+  <p style="color: #64748b; font-size: 0.9em; margin-top: 8px; margin-bottom: 0;"><em>Figure 1: Parallel utilizes all CPU resources (htop view)</em></p>
 </div>
 
-<div align="center" style="margin: 32px 0;">
-  <img src="parallel-citation-640x480.jpg" alt="GNU Parallel Citation for your work" style="max-width: 500px; width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); margin-bottom: 8px;" />
-  <p style="color: #64748b; font-size: 0.9em; margin-bottom: 0;"><em>Figure 2: GNU Parallel citation for your work</em></p>
+<div align="center" style="margin: 36px 0;">
+  <a href="parallel-citation.png" target="_blank" title="Click to view full resolution">
+    <img src="parallel-citation.png" alt="GNU Parallel Citation for your work" style="max-width: 720px; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.2); margin-bottom: 8px; display: block;" />
+  </a>
+  <p style="color: #64748b; font-size: 0.9em; margin-top: 8px; margin-bottom: 0;"><em>Figure 2: GNU Parallel citation for your work</em></p>
 </div>
 
 In addition to this context, I also shared [a relevant content on my LinkedIn page](https://www.linkedin.com/posts/erolrecep_gnuparallel-activity-7235523998489436160-MA4r/) and community liked it. This tool is incredible! If you use it for the correct purpose, you can't even imagine how useful this tool would be. Saves time, resources, and even shortens the whole processing time.
