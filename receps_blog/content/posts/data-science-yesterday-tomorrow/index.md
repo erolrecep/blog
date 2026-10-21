@@ -3,7 +3,6 @@ title = "From Yesterday to Tomorrow: Why Data Science + AI is Your Unstoppable S
 date = 2026-10-20T20:45:00-05:00
 tags = ["Data Science", "Artificial Intelligence", "Machine Learning", "High Performance Computing", "Career Advice", "Marimo"]
 categories = ["Data Science", "Artificial Intelligence"]
-aliases = ["/posts/data-science-yesterday-tomorrow/", "/posts/from-yesterday-to-tomorrow/"]
 +++
 
 *A 15-year journey from commodity laptops and MapReduce to supercomputers, Walmart patents, and foundation models—and why foundational rigor matters more than ever.*

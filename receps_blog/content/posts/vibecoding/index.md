@@ -1,7 +1,6 @@
 +++
 title = "Vibe Coding: Building at the Speed of Thought"
 date = 2026-10-15T11:37:00-05:00
-aliases = ["/posts/vibecoding-for-scientists/"]
 +++
 
 *From Imperative Syntax to Declarative Intent in Computational Scholarship*

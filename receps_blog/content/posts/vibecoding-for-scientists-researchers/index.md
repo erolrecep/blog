@@ -1,7 +1,6 @@
 +++
 title = "Vibe Coding for Scientists and Researchers"
 date = 2026-10-16T12:08:00-05:00
-aliases = ["/posts/scientific-vibe-coding/"]
 +++
 
 *Moving Science Forward with a New Way of Practice*
