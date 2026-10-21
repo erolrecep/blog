@@ -121,23 +121,14 @@ Here are some of the one-liners I use almost every day as part of my tasks. Test
 
 These one-liners save me significant time and effort.
 
-<div class="row g-4 my-4 align-items-stretch">
-  <div class="col-12 col-md-6 d-flex">
-    <div class="terminal-img-card w-100">
-      <div class="terminal-img-wrapper">
-        <img src="htop-view-for-parallel-running-320x240.jpg" alt="GNU Parallel utilizing all CPU resources in htop view" />
-      </div>
-      <p class="terminal-img-caption">Parallel utilizes all CPU resources (htop view)</p>
-    </div>
-  </div>
-  <div class="col-12 col-md-6 d-flex">
-    <div class="terminal-img-card w-100">
-      <div class="terminal-img-wrapper">
-        <img src="parallel-citation-640x480.jpg" alt="GNU Parallel Citation for your work" />
-      </div>
-      <p class="terminal-img-caption">GNU Parallel Citation for your work</p>
-    </div>
-  </div>
+<div align="center" style="margin: 32px 0;">
+  <img src="htop-view-for-parallel-running-320x240.jpg" alt="GNU Parallel utilizing all CPU resources in htop view" style="max-width: 460px; width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); margin-bottom: 8px;" />
+  <p style="color: #64748b; font-size: 0.9em; margin-bottom: 0;"><em>Figure 1: Parallel utilizes all CPU resources (htop view)</em></p>
+</div>
+
+<div align="center" style="margin: 32px 0;">
+  <img src="parallel-citation-640x480.jpg" alt="GNU Parallel Citation for your work" style="max-width: 500px; width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); margin-bottom: 8px;" />
+  <p style="color: #64748b; font-size: 0.9em; margin-bottom: 0;"><em>Figure 2: GNU Parallel citation for your work</em></p>
 </div>
 
 In addition to this context, I also shared [a relevant content on my LinkedIn page](https://www.linkedin.com/posts/erolrecep_gnuparallel-activity-7235523998489436160-MA4r/) and community liked it. This tool is incredible! If you use it for the correct purpose, you can't even imagine how useful this tool would be. Saves time, resources, and even shortens the whole processing time.
