@@ -1,6 +1,8 @@
 +++
 title = '5 days in Atlanta: My Personal Highlights from SC24'
 date = 2024-11-28T11:54:34-06:00
+tags = ["High Performance Computing", "Supercomputing", "SC24", "Artificial Intelligence", "Mentorship", "Career Advice"]
+categories = ["High Performance Computing", "Conferences"]
 +++
 
 

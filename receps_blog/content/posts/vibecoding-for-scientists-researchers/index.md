@@ -1,6 +1,8 @@
 +++
 title = "Vibe Coding for Scientists and Researchers"
 date = 2026-10-16T12:08:00-05:00
+tags = ["Scientific Computing", "Artificial Intelligence", "Vibe Coding", "LLMs", "Research Software Engineering", "Reproducibility", "High Performance Computing"]
+categories = ["Scientific Computing", "Artificial Intelligence"]
 +++
 
 *Moving Science Forward with a New Way of Practice*

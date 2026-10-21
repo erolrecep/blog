@@ -1,6 +1,8 @@
 +++
 title = "Vibe Coding: Building at the Speed of Thought"
 date = 2026-10-15T11:37:00-05:00
+tags = ["Artificial Intelligence", "LLMs", "Vibe Coding", "Generative AI", "Software Engineering", "Productivity"]
+categories = ["Artificial Intelligence", "Software Engineering"]
 +++
 
 *From Imperative Syntax to Declarative Intent in Computational Scholarship*

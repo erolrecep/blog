@@ -2,6 +2,8 @@
 title = 'Notes for Organizing a Workshop'
 date = 2024-10-13T05:26:01-05:00
 draft = false
+tags = ["Workshops", "HPC Training", "Education", "Mentorship", "SLURM", "Career Advice"]
+categories = ["Workshops & Education", "High Performance Computing"]
 +++
 
 

@@ -2,6 +2,8 @@
 title = 'Workshop Checklist'
 date = 2024-10-13T05:47:10-05:00
 draft = false
+tags = ["Workshops", "Checklists", "Education", "Productivity", "HPC Training"]
+categories = ["Workshops & Education"]
 +++
 
 ## Before

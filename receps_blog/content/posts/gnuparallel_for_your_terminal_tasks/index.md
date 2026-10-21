@@ -1,6 +1,8 @@
 +++
 title = 'GNU Parallel for Your Terminal Tasks'
 date = 2024-10-28T21:18:27-05:00
+tags = ["Linux", "CLI", "GNU Parallel", "High Performance Computing", "Automation", "Productivity"]
+categories = ["High Performance Computing", "DevOps & Tooling"]
 +++
 
 In today's fast-paced world, efficiency is key, especially when working with multiple files and processes. Enter [GNU Parallel](https://www.gnu.org/software/parallel/), a powerful command-line tool that can help you streamline your terminal tasks by running them in parallel. In this blog post, we’ll explore what GNU Parallel is, how to install and use it, and some practical use cases that demonstrate its capabilities.

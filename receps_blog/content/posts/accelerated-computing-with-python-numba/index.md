@@ -2,6 +2,8 @@
 title = 'Accelerated Computing With Python Numba'
 date = 2025-08-13T22:24:25-05:00
 draft = true
+tags = ["Python", "Numba", "GPU Computing", "CUDA", "Accelerated Computing", "Optimization"]
+categories = ["High Performance Computing", "Python"]
 +++
 
 Python JIT Compiler --> Just in time compiler

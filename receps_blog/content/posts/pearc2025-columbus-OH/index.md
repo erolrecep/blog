@@ -1,6 +1,8 @@
 +++
 title = 'PEARC25 Reflections: A Step Forward in HPC and Scientific Computing'
 date = 2025-08-11T10:47:48-05:00
+tags = ["High Performance Computing", "Supercomputing", "Scientific Computing", "PEARC", "Quantum Computing", "Career Development"]
+categories = ["High Performance Computing", "Conferences"]
 +++
 
 ## **Introduction**

@@ -1,6 +1,8 @@
 +++
 title = 'Foundations of a Future Engineer: A Personal Roadmap'
 date = 2025-06-28T01:26:45-05:00
+tags = ["Career Advice", "Computer Science", "Education", "Blogging", "Continuous Learning"]
+categories = ["Career & Education"]
 +++
 
 ![A CS Student Studying](image_01.png)
