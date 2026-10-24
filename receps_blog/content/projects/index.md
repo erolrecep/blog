@@ -20,6 +20,12 @@ A curated collection of open-source projects, technical workshops, and high-perf
   - ⚡ **[Cache-Tiled GEMM Hierarchy Simulator](/rcre-docs/learn/gemm_cache.html)**
   - 🎯 **[Sliding Convolution SIMD Stencil Visualizer](/rcre-docs/learn/stencils.html)**
 
+- **[Scientific Python Environments & Workflows on HPC](https://github.com/erolrecep/scientific_python_workflow_hpc)** *(October 2026)*  
+  Comprehensive workshop curriculum and hands-on laboratory for transitioning scientific Python workflows from local development environments (macOS/Linux) and Google Colab to multi-core CPUs and GPU-accelerated HPC clusters (Rocky Linux, SLURM, and Lmod). Demonstrates zero-overhead virtual environment management (`uv`), automated reproducible DAG pipelines (`make`), CPU/GPU benchmarks, memory profiling with flamegraphs (`memray`, `scalene`), and container-free cluster deployments.
+  - 🖥️ **[Interactive Presentation Slides](https://erolrecep.github.io/scientific_python_workflow_hpc/)**
+  - 📓 **[Google Colab Hands-On Notebook](https://github.com/erolrecep/scientific_python_workflow_hpc/blob/main/notebooks/scientific_python_workflow_colab.ipynb)**
+  - 💻 **[GitHub Repository](https://github.com/erolrecep/scientific_python_workflow_hpc)**
+
 - **[VibeCoding-Workshop](https://github.com/erolrecep/VibeCoding-Workshop)** *(October 2026)*  
   Full workshop curriculum on AI-assisted software development: prompt engineering anatomy, iterative model guidance, and full-stack interactive web application development.
 
