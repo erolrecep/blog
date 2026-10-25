@@ -8,8 +8,8 @@ A curated collection of open-source projects, technical workshops, and high-perf
 
 ---
 
-- **[RCRE — Recep's Code Run Everywhere](/rcre-docs/)** *(in-development)*  
-  A single-header, zero-dependency C23 engine unifying modern Computer Vision and Classical Machine Learning across Edge, HPC, and WebAssembly with **zero heap allocations in inner inference loops**. Features 15-bit fixed-point color kernels with 0 LSB discrepancy vs. OpenCV, SIMD hardware acceleration (ARM NEON & x86 AVX2), tabular GBDT inference (7.86M preds/sec), and embedded HNSW vector search (44k QPS).
+- **[RCRE — Recep's Code Run Everywhere](/rcre-docs/)** *(v0.2.5 — in-development)*  
+  A single-header, zero-dependency C23 engine unifying modern Computer Vision, Reverse-Mode Autograd, Classical Machine Learning, and Generative Transformers across Edge, HPC, and WebAssembly with **zero heap allocations in inner inference loops**. Features 15-bit fixed-point color kernels with 0 LSB discrepancy vs. OpenCV, subpixel continuous resizing, Harris corners, DLT/RANSAC homography, Lucas-Kanade optical flow, scalar DAG & tensor tape autograd, decoder-only generative transformers with $\mathcal{O}(1)$ KV-caching, tabular GBDT inference (7.86M preds/sec), and embedded HNSW vector search (44k QPS).
   - 🌐 **[Project Home & Showcase Portal](/rcre-docs/)**
   - 📖 **[Interactive Documentation & C23 API Reference](/rcre-docs/docs/)**
   - 📚 **[Academic Textbook Monograph (PDF)](/rcre-docs/rcre-book.pdf)**
