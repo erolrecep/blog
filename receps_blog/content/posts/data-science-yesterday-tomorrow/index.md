@@ -14,6 +14,10 @@ categories = ["Data Science", "Artificial Intelligence"]
   <p><em>Figure: Navigating the alpine pass with live telemetry, neural path predictions, and data science rigor—keeping the human firmly in the driver’s seat.</em></p>
 </div>
 
+<div style="background: rgba(56, 189, 248, 0.08); border-left: 4px solid #38bdf8; border-radius: 6px; padding: 14px 18px; margin: 20px 0;">
+  <strong>📖 Series Update:</strong> Read the continuation of this discussion in <a href="/posts/data-science-yesterday-tomorrow-part-2/" style="font-weight: 600; text-decoration: underline;">Part 2: Lessons from a Quarter-Century of Hype and Reality (2000–Present) &rarr;</a>, which covers the 25-year macro-evolution, the birth of <code>awesome-datascience</code>, physics-informed synthetic telemetry, and counterfactual race simulations.
+</div>
+
 <div style="background: rgba(56, 189, 248, 0.08); border-left: 4px solid #38bdf8; border-radius: 4px; padding: 14px 18px; margin: 24px 0;">
   <strong>📊 Accompanying Keynote Slide Deck:</strong> You can explore or present the full 25-slide interactive presentation deck in your browser with speaker notes, keyboard navigation, and full-screen support: 
   <a href="presentation_deck.html" target="_blank" rel="noopener noreferrer" style="font-weight: 600; text-decoration: underline;">Launch Interactive Slide Deck &rarr;</a>
@@ -212,5 +216,12 @@ Do not fear these tools. Do not run from them, and do not pretend they do not ex
 AI is the most powerful engine humanity has ever built. But an engine has no purpose without a destination, no caution without a driver, and no conscience without a human soul. 
 
 Learn the math. Interrogate the data. Master the tools. And keep your hands firmly on the wheel.
+
+---
+
+<div style="background: rgba(99, 102, 241, 0.08); border-left: 4px solid #6366f1; border-radius: 6px; padding: 16px 20px; margin: 24px 0;">
+  <strong>🚀 Continue to Part 2:</strong> Dive into the 25-year historical retrospective across five episodes and explore physics-informed synthetic simulation with our Formula 1 case study:
+  <a href="/posts/data-science-yesterday-tomorrow-part-2/" style="font-weight: 600; text-decoration: underline; margin-left: 6px;">Read Part 2: Lessons from a Quarter-Century of Hype and Reality &rarr;</a>
+</div>
 
 
