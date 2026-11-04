@@ -16,11 +16,11 @@ categories = ["Data Science", "Artificial Intelligence"]
 
 <div style="background: rgba(99, 102, 241, 0.08); border-left: 4px solid #6366f1; border-radius: 6px; padding: 16px 20px; margin: 24px 0; display: flex; flex-direction: column; gap: 10px;">
   <div>
-    <strong>🖥️ Interactive 24-Slide Keynote Presentation:</strong> Explore the full companion Reveal.js presentation with dark-tech aesthetics, embedded telemetry animations, and keyboard navigation directly in your browser:
-    <a href="/datascience_from_yesterday_to_tomorrow/" target="_blank" rel="noopener noreferrer" style="font-weight: 600; text-decoration: underline; margin-left: 6px;">Launch Interactive Slide Deck &rarr;</a>
+    <strong>🖥️ Keynote Presentation:</strong> Explore the full companion presentation with dark-tech aesthetics, embedded telemetry animations, and keyboard navigation directly in your browser:
+    <a href="/datascience_from_yesterday_to_tomorrow/" target="_blank" rel="noopener noreferrer" style="font-weight: 600; text-decoration: underline; margin-left: 6px;">Data Science: From Yesterday to Tomorrow (Interactive 24-Slide Deck) &rarr;</a>
   </div>
   <div>
-    <strong>🏎️ Open Source Code & Reproducible Environment:</strong> The complete Python simulation engine, datasets, and Jupyter notebooks are hosted on GitHub:
+    <strong>🏎️ Open Source Code & Telemetry Labs:</strong> The complete Python simulation engine, datasets, and Jupyter notebooks are hosted on GitHub:
     <a href="https://github.com/erolrecep/datascience_from_yesterday_to_tomorrow" target="_blank" rel="noopener noreferrer" style="font-weight: 600; text-decoration: underline; margin-left: 6px;">erolrecep/datascience_from_yesterday_to_tomorrow ↗</a>
   </div>
 </div>
@@ -343,8 +343,9 @@ Prompting an LLM can automate boilerplate code; but designing an experiment, aud
 
 ## Resources & Next Steps
 
-* 🖥️ **Presentation Deck**: [Launch the Interactive 24-Slide Reveal.js Presentation](/datascience_from_yesterday_to_tomorrow/)
+* 🖥️ **Keynote Presentation**: [Data Science: From Yesterday to Tomorrow (Interactive 24-Slide Deck)](/datascience_from_yesterday_to_tomorrow/)
 * 🏎️ **GitHub Repository**: [erolrecep/datascience_from_yesterday_to_tomorrow](https://github.com/erolrecep/datascience_from_yesterday_to_tomorrow)
+* 🛠️ **Hands-On Telemetry Labs**: [`datascience_from_yesterday_to_tomorrow/hands-on`](https://github.com/erolrecep/datascience_from_yesterday_to_tomorrow/tree/main/hands-on) ([1-Click Colab Launch & Guide](https://github.com/erolrecep/datascience_from_yesterday_to_tomorrow#%EF%B8%8F-hands-on-telemetry-labs-run-locally-or-in-google-colab))
 * ⭐ **Curated Open Source Knowledge**: [academic/awesome-datascience](https://github.com/academic/awesome-datascience)
 * 📖 **Previous Chapter**: [Part 1: Why Data Science + AI is Your Unstoppable Superpower](/posts/data-science-yesterday-tomorrow/)
 
