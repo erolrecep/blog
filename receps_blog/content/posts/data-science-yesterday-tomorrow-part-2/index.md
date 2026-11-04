@@ -17,7 +17,7 @@ categories = ["Data Science", "Artificial Intelligence"]
 <div style="background: rgba(99, 102, 241, 0.08); border-left: 4px solid #6366f1; border-radius: 6px; padding: 16px 20px; margin: 24px 0; display: flex; flex-direction: column; gap: 10px;">
   <div>
     <strong>🖥️ Interactive 24-Slide Keynote Presentation:</strong> Explore the full companion Reveal.js presentation with dark-tech aesthetics, embedded telemetry animations, and keyboard navigation directly in your browser:
-    <a href="presentation.html" target="_blank" rel="noopener noreferrer" style="font-weight: 600; text-decoration: underline; margin-left: 6px;">Launch Interactive Slide Deck &rarr;</a>
+    <a href="/datascience_from_yesterday_to_tomorrow/" target="_blank" rel="noopener noreferrer" style="font-weight: 600; text-decoration: underline; margin-left: 6px;">Launch Interactive Slide Deck &rarr;</a>
   </div>
   <div>
     <strong>🏎️ Open Source Code & Reproducible Environment:</strong> The complete Python simulation engine, datasets, and Jupyter notebooks are hosted on GitHub:
@@ -343,7 +343,7 @@ Prompting an LLM can automate boilerplate code; but designing an experiment, aud
 
 ## Resources & Next Steps
 
-* 🖥️ **Presentation Deck**: [Launch the Interactive 24-Slide Reveal.js Presentation](presentation.html)
+* 🖥️ **Presentation Deck**: [Launch the Interactive 24-Slide Reveal.js Presentation](/datascience_from_yesterday_to_tomorrow/)
 * 🏎️ **GitHub Repository**: [erolrecep/datascience_from_yesterday_to_tomorrow](https://github.com/erolrecep/datascience_from_yesterday_to_tomorrow)
 * ⭐ **Curated Open Source Knowledge**: [academic/awesome-datascience](https://github.com/academic/awesome-datascience)
 * 📖 **Previous Chapter**: [Part 1: Why Data Science + AI is Your Unstoppable Superpower](/posts/data-science-yesterday-tomorrow/)
