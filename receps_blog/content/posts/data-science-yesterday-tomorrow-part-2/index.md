@@ -236,9 +236,9 @@ To explore this, we developed a reproducible, physics-informed simulation modeli
 
 You can run each of these interactive labs directly in **Google Colab** with 1 click:
 
-* **Lab 1: Data Generation & EDA**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erolrecep/datascience_from_yesterday_to_tomorrow/blob/main/day2/01_f1_data_generation_and_visualization.ipynb)
-* **Lab 2: Real-Time Circuit Animation**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erolrecep/datascience_from_yesterday_to_tomorrow/blob/main/day2/02_f1_race_animation.ipynb)
-* **Lab 3: Predictive ML & Rain Counterfactual**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erolrecep/datascience_from_yesterday_to_tomorrow/blob/main/day2/03_f1_predictive_modeling_and_whatif.ipynb)
+* **Lab 1: Data Generation & EDA**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erolrecep/datascience_from_yesterday_to_tomorrow/blob/main/hands-on/01_f1_data_generation_and_visualization.ipynb)
+* **Lab 2: Real-Time Circuit Animation**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erolrecep/datascience_from_yesterday_to_tomorrow/blob/main/hands-on/02_f1_race_animation.ipynb)
+* **Lab 3: Predictive ML & Rain Counterfactual**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erolrecep/datascience_from_yesterday_to_tomorrow/blob/main/hands-on/03_f1_predictive_modeling_and_whatif.ipynb)
 
 ---
 
