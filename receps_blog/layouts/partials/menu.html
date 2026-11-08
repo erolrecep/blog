@@ -1,6 +1,6 @@
-<section id="menu-pane" class="menu text-center">
+<nav id="menu-pane" aria-label="Post navigation" class="menu text-center">
   {{ if .IsPage }}
-  <nav aria-label="Page navigation">
+  <div class="pagination-wrapper">
     <ul class="pagination justify-content-center">
       {{ if .Section }}
       {{ with .PrevInSection }}
@@ -26,7 +26,7 @@
       {{ end }}
       {{ end }}
     </ul>
-  </nav>
+  </div>
   {{ end }}
-  <h4 class="text-center mt-3"><a class="menu-item" href="{{ .Site.BaseURL }}">home</a></h4>
-</section>
+  <p class="text-center mt-3 mb-0"><a class="menu-item" href="{{ .Site.BaseURL }}">home</a></p>
+</nav>
