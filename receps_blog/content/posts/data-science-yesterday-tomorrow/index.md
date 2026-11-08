@@ -1,5 +1,5 @@
 +++
-title = "From Yesterday to Tomorrow: Why Data Science + AI is Your Unstoppable Superpower"
+title = "Data Science from Yesterday to Tomorrow, Part 1: Why Data Science + AI is Your Unstoppable Superpower"
 date = 2026-10-20T20:45:00-05:00
 tags = ["Data Science", "Artificial Intelligence", "Machine Learning", "High Performance Computing", "Career Advice", "Marimo"]
 categories = ["Data Science", "Artificial Intelligence"]
@@ -14,8 +14,9 @@ categories = ["Data Science", "Artificial Intelligence"]
   <p><em>Figure: Navigating the alpine pass with live telemetry, neural path predictions, and data science rigor—keeping the human firmly in the driver’s seat.</em></p>
 </div>
 
-<div style="background: rgba(56, 189, 248, 0.08); border-left: 4px solid #38bdf8; border-radius: 6px; padding: 14px 18px; margin: 20px 0;">
-  <strong>📖 Series Update:</strong> Read the continuation of this discussion in <a href="/posts/data-science-yesterday-tomorrow-part-2/" style="font-weight: 600; text-decoration: underline;">Part 2: Lessons from a Quarter-Century of Hype and Reality (2000–Present) &rarr;</a>, which covers the 25-year macro-evolution, the birth of <code>awesome-datascience</code>, physics-informed synthetic telemetry, and counterfactual race simulations.
+<div style="background: rgba(56, 189, 248, 0.08); border-left: 4px solid #38bdf8; border-radius: 6px; padding: 16px 20px; margin: 24px 0;">
+  <strong>📖 Series Navigation:</strong> This is <strong>Part 1</strong> of the <em>Data Science from Yesterday to Tomorrow</em> series. 
+  Read the continuation in <a href="/posts/data-science-yesterday-tomorrow-part-2/" style="font-weight: 600; text-decoration: underline;">Part 2: Lessons from a Quarter-Century of Hype and Reality (2000–Present) &rarr;</a>, which covers the 25-year macro-evolution, the birth of <code>awesome-datascience</code>, physics-informed synthetic telemetry, and counterfactual race simulations.
 </div>
 
 <div style="background: rgba(99, 102, 241, 0.08); border-left: 4px solid #6366f1; border-radius: 4px; padding: 14px 18px; margin: 24px 0;">
