@@ -20,6 +20,17 @@ A curated collection of open-source projects, technical workshops, and high-perf
 
 <br>
 
+- **[GNew Parallel (gnewp)](https://github.com/erolrecep/gnew-parallel)** *(v0.2.2 — in-development)*  
+  A topology-, SIMD-I/O-, and accelerator-aware modernization of GNU Parallel written in ISO C23 and powered by **[RCRE v1.1](https://github.com/erolrecep/rcre)**. Preserves the core zero-daemon Unix CLI ergonomics (`:::`, `::::`, `--pipe`, `{}`, `{.}`, `{/}`, `--colsep`, `--joblog`, `--resume-failed`, `-k`) while replacing the 15,000-line Perl interpreter core with a zero-dependency systems engine. Features shell-bypass direct execution (`posix_spawnp`) with arena scratchpads, ARM NEON & x86 AVX2 SIMD `--pipe` stream splitters (2.12–3.24 GiB/s for FASTQ/FASTA/TSV), Apple Silicon P/E-core steering via Mach QoS, Linux cgroups v2 and Slurm CPU quota sympathy, live memory pressure guards, dynamic runtime NVML GPU VRAM-gated scheduling, and loss-proof `--worker` process pools (delivering 2.0x–23.6x faster orchestration and 11.5x lower RAM).
+  - 💻 **[GitHub Repository](https://github.com/erolrecep/gnew-parallel)**
+  - 📚 **[5-Page Technical E-Book (PDF)](/gnew-parallel/GNew_Parallel_Scientific_Resource_Management_EBook.pdf)**
+  - 📊 **[Audited Cross-Platform Benchmarks](https://github.com/erolrecep/gnew-parallel/blob/main/docs/benchmarks.md)**
+  - 🏗️ **[Systems Architecture & Engineering Deep-Dive](https://github.com/erolrecep/gnew-parallel/blob/main/docs/architecture.md)**
+  - ⚖️ **[GNU Parallel vs. GNew Parallel Audited Comparison](https://github.com/erolrecep/gnew-parallel/blob/main/comparison.md)**
+  - 🛠️ **[Real-World Production Workflows & Recipes](https://github.com/erolrecep/gnew-parallel/blob/main/real_world_usage.md)**
+
+<br>
+
 - **[Best Practices for Using HPC: Scaling Up to Cluster-Native Workflows](https://github.com/erolrecep/best_practices_for_hpc)** *(November 2026)*  
   Comprehensive workshop curriculum, interactive slide deck, and practical guides presented at the Rice University Center for Research Computing (CRC) Research Computing Day. Designed to bridge the gap between running code on personal laptops and scaling compute jobs across large-scale supercomputing clusters. Covers login node etiquette, memory over-allocation traps, multi-core CPU and GPU resource sizing, high-speed shared file systems (Lustre/NFS), Slurm batch script templates, job monitoring with `seff`, and reproducible cluster-native workflows.
   - 🖥️ **[Interactive Presentation Slides](https://erolrecep.github.io/best-practices-hpc/)**
