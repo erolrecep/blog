@@ -66,6 +66,19 @@ $$f(x) = \frac{1}{\sigma \sqrt{2\pi}} \exp\left(-\frac{1}{2}\left(\frac{x - \mu}
 
 This is a special case of the **Central Limit Theorem (CLT)**: independent microscopic perturbations (peg collisions) compound into macroscopic deterministic structure.
 
+### Multi-Pin Apex ($P_0 \ge 2$) & Compound Mixture Distributions
+What happens if the board does not start from a single pin, but begins with $P_0 \ge 2$ pins at the apex (e.g. 3 or 4 pins)?
+
+Incoming beads enter via a discrete uniform prior $U \sim \text{Uniform}\{0, \dots, P_0 - 1\}$. The resulting destination $K = U + \sum_{i=1}^N B_i$ is a **compound discrete mixture**:
+
+$$P(K = k) = \frac{1}{P_0} \sum_{j=0}^{P_0 - 1} \binom{N}{k - j} p^{k - j} (1 - p)^{N - (k - j)}$$
+
+Applying the law of total expectation and variance:
+
+$$\mathbb{E}[K] = \frac{P_0 - 1}{2} + N p, \quad \text{Var}(K) = \frac{P_0^2 - 1}{12} + N p (1 - p)$$
+
+When $N$ is small ($N=3, 4$) or $P_0$ is large ($P_0=3, 4$), the distribution flattens into a wide plateau (platykurtic mixture with negative excess kurtosis), allowing users to experiment directly with boundary conditions versus asymptotic convergence.
+
 ---
 
 ## 2. Systems Optimization: 750M Drops/Sec in ISO C23
