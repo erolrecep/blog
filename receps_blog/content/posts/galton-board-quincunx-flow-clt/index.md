@@ -1,6 +1,7 @@
 +++
 title = "Simulating the Galton Board: From Bernoulli Trials to the Central Limit Theorem at 750M Drops/Sec"
 date = 2026-11-13T15:00:00-06:00
+draft = true
 tags = ["C Programming", "HPC", "Systems Engineering", "Statistics", "Python", "FastAPI", "WebAssembly"]
 categories = ["Systems Engineering", "Algorithms", "AI/ML"]
 +++
